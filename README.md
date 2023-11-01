@@ -34,7 +34,7 @@ Message me on Discord if you want to talk!
 A custom C++ Engine using the SDL2 Libraries &nbsp;
 
 ## Fishin' Cat
-A simple yet addicting mobile game about a cat who wants to be the greatest fisher in the world. Made in GODOT using GDscript.\ 
+A simple yet addicting mobile game about a cat who wants to be the greatest fisher in the world. Made in [GODOT](https://godotengine.org) using [GDscript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html). 
 Public Alpha coming mid November   &nbsp;
 
 # 💬 What I will be working on
