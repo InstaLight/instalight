@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 -->
 
 # 🤔 Who Am I???
-Hi there! My name is Patrick (or Insta/InstaLight) and I am currently in my Sophmore year studying Computer Science! &nbsp;
+Hi there! My name is Patrick, and I am currently in my Sophmore year studying Computer Science! &nbsp;
 
-I've been coding since I was 9 (my first language was JavaScript) &nbsp;
+I've been coding since I was 9
+- (my first language was JavaScript) &nbsp;
 
-While I'm studying Cyber Security, I'm also in love with Game Dev, and have been making small games since I was 10 (Flappy Bird was what started this passion becuase I was bad at it) &nbsp;
+While I'm studying Cyber Security, I'm also in love with Game Dev, and have been making small games since I was 10 
+- (Flappy Bird was what started this passion becuase I was bad at it) &nbsp;
 
 I am also very passionate about the use of Free Open Source Software and the preservation of video games &nbsp;
 
-Message me on Discord (InstaLight) if you want to talk!
+Message me on Discord if you want to talk!
 
 # 🔭 What I'm currently working on
 ## [Insta Engine](https://github.com/InstaLight/InstaEngine)
@@ -41,9 +43,11 @@ I want to work on my own site (probably using Github Pages) to use as an online 
 
 # 📧 How to reach me
 ## 🎩 Professionally
-- My school email (ps7967@desales.edu)
+- School email
+⋅⋅* ps7967@desales.edu
 ## 💻 Informally
-- My Discord (InstaLight) &nbsp;
+- My Discord
+⋅⋅* InstaLight &nbsp;
 
 # 😄 Fun Facts
 ## 🎮 Favorite Games (currently)
