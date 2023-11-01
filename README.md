@@ -40,3 +40,21 @@ I want to work on my own site (probably using Github Pages) to use as an online 
 - My school email (ps7967@desales.edu)
 ## 💻 Informally
 - My Discord (InstaLight)
+
+# 😄 Fun Facts
+## 🎮 Favorite Games (currently)
+- 👑 [Kingdom Hearts](http://www.kingdomhearts.com)
+- 🕸️ [Spider-Man 2](https://www.playstation.com/en-us/games/marvels-spider-man-2/)
+- 🚀 [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/)
+- 🌲 [Terraria](https://store.steampowered.com/app/105600/Terraria/)
+- 👹 [Diablo](https://www.gog.com/en/game/diablo)
+
+## 📌 Dream Companies to Work For
+- 🩸[New Blood Interactive](https://newblood.games)
+- 🔫[Devolver Digital](https://www.devolverdigital.com)
+- 🧱[Nintendo](https://www.nintendo.com)
+
+## 🤓 Favorite Classes Right Now
+- ⚔️ Western Civlization to the 1600s
+- 💻 Computer Architecture and Hardware
+
