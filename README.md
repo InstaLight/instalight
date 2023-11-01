@@ -33,6 +33,10 @@ Message me on Discord if you want to talk!
 ## [Insta Engine](https://github.com/InstaLight/InstaEngine)
 A custom C++ Engine using the SDL2 Libraries &nbsp;
 
+## Fishin' Cat
+A simple yet addicting mobile game about a cat who wants to be the greatest fisher in the world. Made in GODOT using GDscript.\ 
+Public Alpha coming mid November   &nbsp;
+
 # 💬 What I will be working on
 ## My Personal Site
 I want to work on my own site (probably using Github Pages) to use as an online portfolio &nbsp;
