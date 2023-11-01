@@ -32,7 +32,7 @@ A custom C++ Engine using the SDL2 Libraries
 I want to work on my own site (probably using Github Pages) to use as an online portfolio
 
 # 🌱 What I'm currently learning
-✅ C++
+✅ C++\
 ✅ SQLite
 
 # 📧 How to reach me
