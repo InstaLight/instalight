@@ -44,10 +44,10 @@ I want to work on my own site (probably using Github Pages) to use as an online 
 # 📧 How to reach me
 ## 🎩 Professionally
 - School email
-⋅⋅* ps7967@desales.edu
+-- ps7967@desales.edu
 ## 💻 Informally
-- My Discord
-⋅⋅* InstaLight &nbsp;
+- - My Discord
+- - InstaLight &nbsp;
 
 # 😄 Fun Facts
 ## 🎮 Favorite Games (currently)
