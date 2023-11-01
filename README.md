@@ -1,5 +1,5 @@
 ### Hi there 👋
-_Use [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)!_
+_Use and support [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)!_
 
 <!--
 **InstaLight/instalight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
