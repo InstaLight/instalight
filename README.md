@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🔭 What I'm currently working on
+## [Insta Engine](https://github.com/InstaLight/InstaEngine)
+A custom C++ Engine using the SDL2 Libraries
+
+# 💬 What I will be working on
+## My Personal Site
+I want to work on my own site (probably using Github Pages) to use as an online portfolio
+
+# 🌱 What I'm currently learning
+✅ C++
+
+# 📧 How to reach me
+## 🎩 Professionally
+- My school email (ps7967@desales.edu)
+## 💻 Informally
+- My Discord (InstaLight)
