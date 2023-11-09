@@ -70,3 +70,4 @@ I want to work on my own site (probably using Github Pages) to use as an online 
 - ⚔️ Western Civlization to the 1600s
 - 💻 Computer Architecture and Hardware
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2QZGME)
