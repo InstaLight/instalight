@@ -43,6 +43,7 @@ I want to work on my own site (probably using Github Pages) to use as an online 
 
 # 🌱 What I'm currently learning
 ✅ C++\
+✅ React\
 ✅ SQLite &nbsp;
 
 # 📧 How to reach me
