@@ -30,21 +30,21 @@ I am also very passionate about the use of Free Open Source Software and the pre
 Message me on Discord if you want to talk!
 
 # 🔭 What I'm currently working on
-## [Insta Engine](https://github.com/InstaLight/InstaEngine)
-A custom C++ Engine using the SDL2 Libraries &nbsp;
+## Dream Hopper
+A 2D Platformer built in Java using the LibGDX libraries for my software engineering class &nbsp;
 
-## Fishin' Cat
-A simple yet addicting mobile game about a cat who wants to be the greatest fisher in the world. Made in [GODOT](https://godotengine.org) using [GDscript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html). 
-Public Alpha coming mid November   &nbsp;
+## Restless
+A 2D rouge-like using a Commodore 64 tile set and ASCII sprites. Made in [GODOT](https://godotengine.org) using [GDscript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html). 
+Proof of Concept demon coming at the end of March   &nbsp;
 
 # 💬 What I will be working on
 ## My Personal Site
 I want to work on my own site (probably using Github Pages) to use as an online portfolio &nbsp;
 
 # 🌱 What I'm currently learning
-✅ C++\
-✅ React\
-✅ SQLite &nbsp;
+✅ HTML \
+✅ CSS \
+✅ React &nbsp;
 
 # 📧 How to reach me
 ## 🎩 Professionally
@@ -68,7 +68,6 @@ I want to work on my own site (probably using Github Pages) to use as an online 
 - 🧱[Nintendo](https://www.nintendo.com) &nbsp;
 
 ## 🤓 Favorite Classes Right Now
-- ⚔️ Western Civlization to the 1600s
-- 💻 Computer Architecture and Hardware
+💻 Cyber Security
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2QZGME)
