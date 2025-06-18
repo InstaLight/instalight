@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 🤔 Who Am I???
-Hi there! My name is Patrick, and I am currently in my Sophmore year studying Computer Science! &nbsp;
+Hi there! My name is Patrick, and I am currently in my Senior year studying Computer Science! &nbsp;
 
 I've been coding since I was 9
 - my first language was JavaScript &nbsp;
